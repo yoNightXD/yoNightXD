@@ -8,7 +8,7 @@ Sou Matheus Henrique, tenho 19 anos e sou estudante de Análise e Desenvolviment
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👾 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -62,7 +62,7 @@ Sou Matheus Henrique, tenho 19 anos e sou estudante de Análise e Desenvolviment
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🤖 Estatísticas
 
 <p>
   <img 
